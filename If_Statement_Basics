@@ -1,0 +1,28 @@
+
+=> Python Statement:
+"Instructions that a Python interpreter can execute are called statements. 
+
+also we can understand and called types of statements................................................ 
+For example, a = 1 is an assignment statement. if statement, for statement, while statement, etc." 
+
+1). => if statement:
+If statements are control flow statements which helps us to run a particular code only 
+when a certain condition is satisfied.
+
+For example, you want to print a message on the screen only when a condition is true
+              then you can use if statement to accomplish this in programming.
+
+2). => for Statement: for loops are traditionally used when you have a block of code which you want to repeat 
+                      a fixed number of times.
+
+3). =>  while statement: The while Loop With the while loop we can execute a set of statements as long as 
+                         a condition is true.
+
+4). =>  The break Statement: With the break statement we can stop the loop even if the while condition is true:
+
+5). => The continue Statement: With the continue statement we can stop the current iteration, and continue
+                               with the next:
+
+
+ 2). if-elif-else ladder => Here, a user can decide among multiple options. The if statements are executed from the 
+                            top down. 
